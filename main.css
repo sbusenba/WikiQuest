@@ -1,0 +1,20 @@
+p {
+	color:white;
+	font-size: 50px;
+}
+h1 {
+	color:black;
+}
+.wikiView {
+	background-color: teal;
+	top-margin:auto;
+	bottom-margin:auto;
+	border:3px black solid;
+	height:500px;
+}
+.banner *{
+	display:inline;
+}
+.banner a{
+	float:right;
+}
